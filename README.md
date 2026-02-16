@@ -86,4 +86,4 @@ To ensure your data is secure, please apply the rules found in `FIREBASE_RULES.m
 ## 📄 License
 This project is for personal and business use. All rights reserved.
 
-Created with ❤️ by the **JakiJeki**
+Created with ❤️ by the **Jackie**
